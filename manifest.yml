@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: cenyu-test-nodejs-1
-  host: cenyu-test-nodejs-1
+  name: cenyu-test-nodejs-2
+  host: cenyu-test-nodejs-2
   disk_quota: 1024M
